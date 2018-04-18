@@ -15,6 +15,6 @@ s.requires_arc = true
 
 s.source_files  = "TestStaticLib1/*.{h}"
 s.vendored_libraries = "TestStaticLib1/SL1.a"
-
+s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
 end
 
