@@ -1,0 +1,2 @@
+# TestStaticAndCocoaPod
+TestStaticAndCocoaPod
